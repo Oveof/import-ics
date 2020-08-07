@@ -4,9 +4,8 @@ import json
 import arrow
 
 
-def getEvents():
-    f = open("IELET100120v.ics", "r")
-    c = Calendar(f.read())
+def getEvents(icsCalendar):
+    c = Calendar(icsCalendar.read())
 
     events = []
 
@@ -18,11 +17,14 @@ def getEvents():
             'location': event.location,
             'description': event.description,
             'start': {
-                'dateTime': event.begin.format('YYYY-MM-DDTHH:MM:SSZZ')
+                'dateTime': event.begin.format('YYYY-MM-DDTHH:MM:SSZZ'),
+                'timezone': event.begin.tzinfo
+            },
+            'end': {
+                'datetime': event.end.format('YYYY-MM-DDTHH:MM:SSZZ'),
+                'timezone': event.end.tzinfo
             }
         }
         print("\n")
         print(eventObj)
         
-
-getEvents()
