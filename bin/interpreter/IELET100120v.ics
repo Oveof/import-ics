@@ -1,0 +1,1666 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UiO//TP
+X-WR-CALNAME:IELET1001_20v
+BEGIN:VEVENT
+UID:15e147b6889052
+DTSTAMP:20200107T123656Z
+DTSTART:20200106T111500Z
+DTEND:20200106T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:25e147b6889144
+DTSTAMP:20200107T123656Z
+DTSTART:20200106T111500Z
+DTEND:20200106T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:35e147b688915b
+DTSTAMP:20200107T123656Z
+DTSTART:20200106T141500Z
+DTEND:20200106T170000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:45e147b688916c
+DTSTAMP:20200107T123656Z
+DTSTART:20200108T111500Z
+DTEND:20200108T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:55e147b688917c
+DTSTAMP:20200107T123656Z
+DTSTART:20200108T151500Z
+DTEND:20200108T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:65e147b688918c
+DTSTAMP:20200107T123656Z
+DTSTART:20200110T131500Z
+DTEND:20200110T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:75e147b688919c
+DTSTAMP:20200107T123656Z
+DTSTART:20200110T131500Z
+DTEND:20200110T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:85e147b68891ac
+DTSTAMP:20200107T123656Z
+DTSTART:20200113T111500Z
+DTEND:20200113T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:95e147b68891be
+DTSTAMP:20200107T123656Z
+DTSTART:20200113T111500Z
+DTEND:20200113T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:105e147b68891cf
+DTSTAMP:20200107T123656Z
+DTSTART:20200113T141500Z
+DTEND:20200113T170000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:115e147b68891df
+DTSTAMP:20200107T123656Z
+DTSTART:20200115T111500Z
+DTEND:20200115T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:125e147b68891ef
+DTSTAMP:20200107T123656Z
+DTSTART:20200115T151500Z
+DTEND:20200115T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:135e147b688920a
+DTSTAMP:20200107T123656Z
+DTSTART:20200117T131500Z
+DTEND:20200117T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:145e147b6889220
+DTSTAMP:20200107T123656Z
+DTSTART:20200117T131500Z
+DTEND:20200117T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:155e147b6889230
+DTSTAMP:20200107T123656Z
+DTSTART:20200120T111500Z
+DTEND:20200120T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:165e147b6889240
+DTSTAMP:20200107T123656Z
+DTSTART:20200120T111500Z
+DTEND:20200120T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:175e147b688924f
+DTSTAMP:20200107T123656Z
+DTSTART:20200120T141500Z
+DTEND:20200120T170000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:185e147b688925f
+DTSTAMP:20200107T123656Z
+DTSTART:20200121T151500Z
+DTEND:20200121T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:195e147b688926f
+DTSTAMP:20200107T123656Z
+DTSTART:20200122T111500Z
+DTEND:20200122T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:205e147b688927e
+DTSTAMP:20200107T123656Z
+DTSTART:20200122T151500Z
+DTEND:20200122T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:215e147b6889291
+DTSTAMP:20200107T123656Z
+DTSTART:20200122T151500Z
+DTEND:20200122T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:225e147b68892a1
+DTSTAMP:20200107T123656Z
+DTSTART:20200123T151500Z
+DTEND:20200123T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:235e147b68892b0
+DTSTAMP:20200107T123656Z
+DTSTART:20200124T131500Z
+DTEND:20200124T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:245e147b68892fc
+DTSTAMP:20200107T123656Z
+DTSTART:20200124T131500Z
+DTEND:20200124T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:255e147b6889310
+DTSTAMP:20200107T123656Z
+DTSTART:20200127T111500Z
+DTEND:20200127T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:265e147b6889320
+DTSTAMP:20200107T123656Z
+DTSTART:20200127T111500Z
+DTEND:20200127T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:275e147b688932f
+DTSTAMP:20200107T123656Z
+DTSTART:20200127T141500Z
+DTEND:20200127T170000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:285e147b688933f
+DTSTAMP:20200107T123656Z
+DTSTART:20200128T151500Z
+DTEND:20200128T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:295e147b688934f
+DTSTAMP:20200107T123656Z
+DTSTART:20200129T111500Z
+DTEND:20200129T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:305e147b688935e
+DTSTAMP:20200107T123656Z
+DTSTART:20200129T151500Z
+DTEND:20200129T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:315e147b688936e
+DTSTAMP:20200107T123656Z
+DTSTART:20200129T151500Z
+DTEND:20200129T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:325e147b688937d
+DTSTAMP:20200107T123656Z
+DTSTART:20200130T151500Z
+DTEND:20200130T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:335e147b688938f
+DTSTAMP:20200107T123656Z
+DTSTART:20200131T131500Z
+DTEND:20200131T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:345e147b68893b2
+DTSTAMP:20200107T123656Z
+DTSTART:20200131T131500Z
+DTEND:20200131T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:355e147b68893cd
+DTSTAMP:20200107T123656Z
+DTSTART:20200203T111500Z
+DTEND:20200203T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:365e147b68893e1
+DTSTAMP:20200107T123656Z
+DTSTART:20200203T111500Z
+DTEND:20200203T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:375e147b68893f1
+DTSTAMP:20200107T123656Z
+DTSTART:20200203T131500Z
+DTEND:20200203T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:385e147b6889423
+DTSTAMP:20200107T123656Z
+DTSTART:20200204T151500Z
+DTEND:20200204T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:395e147b6889437
+DTSTAMP:20200107T123656Z
+DTSTART:20200205T111500Z
+DTEND:20200205T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:405e147b6889448
+DTSTAMP:20200107T123656Z
+DTSTART:20200205T151500Z
+DTEND:20200205T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:415e147b6889458
+DTSTAMP:20200107T123656Z
+DTSTART:20200205T151500Z
+DTEND:20200205T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:425e147b688946a
+DTSTAMP:20200107T123656Z
+DTSTART:20200206T151500Z
+DTEND:20200206T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:435e147b688947b
+DTSTAMP:20200107T123656Z
+DTSTART:20200207T131500Z
+DTEND:20200207T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:445e147b688948a
+DTSTAMP:20200107T123656Z
+DTSTART:20200207T131500Z
+DTEND:20200207T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:455e147b6889499
+DTSTAMP:20200107T123656Z
+DTSTART:20200210T111500Z
+DTEND:20200210T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:465e147b68894bc
+DTSTAMP:20200107T123656Z
+DTSTART:20200210T111500Z
+DTEND:20200210T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:475e147b68894d7
+DTSTAMP:20200107T123656Z
+DTSTART:20200210T131500Z
+DTEND:20200210T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:485e147b68894e7
+DTSTAMP:20200107T123656Z
+DTSTART:20200211T151500Z
+DTEND:20200211T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:495e147b68894f7
+DTSTAMP:20200107T123656Z
+DTSTART:20200212T111500Z
+DTEND:20200212T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:505e147b6889506
+DTSTAMP:20200107T123656Z
+DTSTART:20200212T151500Z
+DTEND:20200212T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:515e147b6889516
+DTSTAMP:20200107T123656Z
+DTSTART:20200212T151500Z
+DTEND:20200212T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:525e147b6889525
+DTSTAMP:20200107T123656Z
+DTSTART:20200213T151500Z
+DTEND:20200213T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:535e147b6889535
+DTSTAMP:20200107T123656Z
+DTSTART:20200214T131500Z
+DTEND:20200214T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:545e147b6889544
+DTSTAMP:20200107T123656Z
+DTSTART:20200214T131500Z
+DTEND:20200214T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:555e147b6889553
+DTSTAMP:20200107T123656Z
+DTSTART:20200217T111500Z
+DTEND:20200217T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:565e147b6889563
+DTSTAMP:20200107T123656Z
+DTSTART:20200217T111500Z
+DTEND:20200217T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:575e147b6889572
+DTSTAMP:20200107T123656Z
+DTSTART:20200217T131500Z
+DTEND:20200217T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:585e147b6889581
+DTSTAMP:20200107T123656Z
+DTSTART:20200218T151500Z
+DTEND:20200218T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:595e147b6889590
+DTSTAMP:20200107T123656Z
+DTSTART:20200219T111500Z
+DTEND:20200219T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:605e147b688959e
+DTSTAMP:20200107T123656Z
+DTSTART:20200219T151500Z
+DTEND:20200219T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:615e147b68895ae
+DTSTAMP:20200107T123656Z
+DTSTART:20200219T151500Z
+DTEND:20200219T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:625e147b68895bd
+DTSTAMP:20200107T123656Z
+DTSTART:20200220T151500Z
+DTEND:20200220T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:635e147b68895cc
+DTSTAMP:20200107T123656Z
+DTSTART:20200221T131500Z
+DTEND:20200221T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:645e147b68895db
+DTSTAMP:20200107T123656Z
+DTSTART:20200221T131500Z
+DTEND:20200221T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:655e147b68895ea
+DTSTAMP:20200107T123656Z
+DTSTART:20200224T111500Z
+DTEND:20200224T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:665e147b68895f8
+DTSTAMP:20200107T123656Z
+DTSTART:20200224T111500Z
+DTEND:20200224T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:675e147b688960a
+DTSTAMP:20200107T123656Z
+DTSTART:20200224T131500Z
+DTEND:20200224T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:685e147b6889620
+DTSTAMP:20200107T123656Z
+DTSTART:20200225T151500Z
+DTEND:20200225T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:695e147b6889630
+DTSTAMP:20200107T123656Z
+DTSTART:20200226T111500Z
+DTEND:20200226T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:705e147b688963f
+DTSTAMP:20200107T123656Z
+DTSTART:20200226T151500Z
+DTEND:20200226T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:715e147b6889651
+DTSTAMP:20200107T123656Z
+DTSTART:20200226T151500Z
+DTEND:20200226T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:725e147b6889661
+DTSTAMP:20200107T123656Z
+DTSTART:20200227T151500Z
+DTEND:20200227T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:735e147b6889670
+DTSTAMP:20200107T123656Z
+DTSTART:20200228T131500Z
+DTEND:20200228T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:745e147b688967f
+DTSTAMP:20200107T123656Z
+DTSTART:20200228T131500Z
+DTEND:20200228T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:755e147b688968e
+DTSTAMP:20200107T123656Z
+DTSTART:20200302T111500Z
+DTEND:20200302T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:765e147b688969d
+DTSTAMP:20200107T123656Z
+DTSTART:20200302T111500Z
+DTEND:20200302T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:775e147b68896ac
+DTSTAMP:20200107T123656Z
+DTSTART:20200302T131500Z
+DTEND:20200302T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:785e147b68896bb
+DTSTAMP:20200107T123656Z
+DTSTART:20200303T151500Z
+DTEND:20200303T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:795e147b68896cb
+DTSTAMP:20200107T123656Z
+DTSTART:20200304T111500Z
+DTEND:20200304T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:805e147b68896d9
+DTSTAMP:20200107T123656Z
+DTSTART:20200304T151500Z
+DTEND:20200304T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:815e147b68896e8
+DTSTAMP:20200107T123656Z
+DTSTART:20200304T151500Z
+DTEND:20200304T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:825e147b68896f7
+DTSTAMP:20200107T123656Z
+DTSTART:20200305T151500Z
+DTEND:20200305T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:835e147b6889706
+DTSTAMP:20200107T123656Z
+DTSTART:20200306T131500Z
+DTEND:20200306T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:845e147b6889715
+DTSTAMP:20200107T123656Z
+DTSTART:20200306T131500Z
+DTEND:20200306T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:855e147b6889723
+DTSTAMP:20200107T123656Z
+DTSTART:20200309T111500Z
+DTEND:20200309T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:865e147b6889732
+DTSTAMP:20200107T123656Z
+DTSTART:20200309T111500Z
+DTEND:20200309T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:875e147b6889741
+DTSTAMP:20200107T123656Z
+DTSTART:20200309T131500Z
+DTEND:20200309T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:885e147b6889752
+DTSTAMP:20200107T123656Z
+DTSTART:20200310T151500Z
+DTEND:20200310T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:895e147b6889765
+DTSTAMP:20200107T123656Z
+DTSTART:20200311T111500Z
+DTEND:20200311T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:905e147b6889788
+DTSTAMP:20200107T123656Z
+DTSTART:20200311T151500Z
+DTEND:20200311T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:915e147b688979c
+DTSTAMP:20200107T123656Z
+DTSTART:20200311T151500Z
+DTEND:20200311T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:925e147b68897b4
+DTSTAMP:20200107T123656Z
+DTSTART:20200312T151500Z
+DTEND:20200312T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:935e147b68897ce
+DTSTAMP:20200107T123656Z
+DTSTART:20200313T131500Z
+DTEND:20200313T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:945e147b68897e3
+DTSTAMP:20200107T123656Z
+DTSTART:20200313T131500Z
+DTEND:20200313T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:955e147b68897f3
+DTSTAMP:20200107T123656Z
+DTSTART:20200316T111500Z
+DTEND:20200316T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:965e147b6889802
+DTSTAMP:20200107T123656Z
+DTSTART:20200316T111500Z
+DTEND:20200316T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:975e147b6889814
+DTSTAMP:20200107T123656Z
+DTSTART:20200316T131500Z
+DTEND:20200316T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:985e147b688982a
+DTSTAMP:20200107T123656Z
+DTSTART:20200317T151500Z
+DTEND:20200317T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:995e147b688983b
+DTSTAMP:20200107T123656Z
+DTSTART:20200318T111500Z
+DTEND:20200318T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:1005e147b688984a
+DTSTAMP:20200107T123656Z
+DTSTART:20200318T151500Z
+DTEND:20200318T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1015e147b688985c
+DTSTAMP:20200107T123656Z
+DTSTART:20200318T151500Z
+DTEND:20200318T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:1025e147b688986c
+DTSTAMP:20200107T123656Z
+DTSTART:20200319T151500Z
+DTEND:20200319T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1035e147b688987b
+DTSTAMP:20200107T123656Z
+DTSTART:20200320T131500Z
+DTEND:20200320T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:1045e147b688988b
+DTSTAMP:20200107T123656Z
+DTSTART:20200320T131500Z
+DTEND:20200320T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:1055e147b688989a
+DTSTAMP:20200107T123656Z
+DTSTART:20200323T111500Z
+DTEND:20200323T130000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:1065e147b68898b1
+DTSTAMP:20200107T123656Z
+DTSTART:20200323T111500Z
+DTEND:20200323T130000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:1075e147b68898c1
+DTSTAMP:20200107T123656Z
+DTSTART:20200323T131500Z
+DTEND:20200323T160000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:1085e147b68898d1
+DTSTAMP:20200107T123656Z
+DTSTART:20200324T151500Z
+DTEND:20200324T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1095e147b6889903
+DTSTAMP:20200107T123656Z
+DTSTART:20200325T111500Z
+DTEND:20200325T150000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:1105e147b6889913
+DTSTAMP:20200107T123656Z
+DTSTART:20200325T151500Z
+DTEND:20200325T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1115e147b6889923
+DTSTAMP:20200107T123656Z
+DTSTART:20200325T151500Z
+DTEND:20200325T190000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:1125e147b6889941
+DTSTAMP:20200107T123656Z
+DTSTART:20200326T151500Z
+DTEND:20200326T190000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1135e147b6889959
+DTSTAMP:20200107T123656Z
+DTSTART:20200327T131500Z
+DTEND:20200327T150000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:1145e147b688996a
+DTSTAMP:20200107T123656Z
+DTSTART:20200327T131500Z
+DTEND:20200327T150000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:1155e147b688997a
+DTSTAMP:20200107T123656Z
+DTSTART:20200330T101500Z
+DTEND:20200330T120000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:1165e147b6889989
+DTSTAMP:20200107T123656Z
+DTSTART:20200330T101500Z
+DTEND:20200330T120000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:1175e147b6889999
+DTSTAMP:20200107T123656Z
+DTSTART:20200330T121500Z
+DTEND:20200330T150000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:1185e147b68899a9
+DTSTAMP:20200107T123656Z
+DTSTART:20200331T141500Z
+DTEND:20200331T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1195e147b68899c0
+DTSTAMP:20200107T123656Z
+DTSTART:20200401T101500Z
+DTEND:20200401T140000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:1205e147b68899df
+DTSTAMP:20200107T123656Z
+DTSTART:20200401T141500Z
+DTEND:20200401T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1215e147b68899ee
+DTSTAMP:20200107T123656Z
+DTSTART:20200401T141500Z
+DTEND:20200401T180000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:1225e147b68899fe
+DTSTAMP:20200107T123656Z
+DTSTART:20200402T141500Z
+DTEND:20200402T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1235e147b6889a11
+DTSTAMP:20200107T123656Z
+DTSTART:20200403T121500Z
+DTEND:20200403T140000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:1245e147b6889a21
+DTSTAMP:20200107T123656Z
+DTSTART:20200403T121500Z
+DTEND:20200403T140000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:1255e147b6889a2f
+DTSTAMP:20200107T123656Z
+DTSTART:20200406T101500Z
+DTEND:20200406T120000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:1265e147b6889a3f
+DTSTAMP:20200107T123656Z
+DTSTART:20200408T101500Z
+DTEND:20200408T140000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:1275e147b6889a4d
+DTSTAMP:20200107T123656Z
+DTSTART:20200414T141500Z
+DTEND:20200414T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1285e147b6889a5c
+DTSTAMP:20200107T123656Z
+DTSTART:20200415T101500Z
+DTEND:20200415T140000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:1295e147b6889a6b
+DTSTAMP:20200107T123656Z
+DTSTART:20200415T141500Z
+DTEND:20200415T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1305e147b6889a7b
+DTSTAMP:20200107T123656Z
+DTSTART:20200415T141500Z
+DTEND:20200415T180000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:1315e147b6889a8c
+DTSTAMP:20200107T123656Z
+DTSTART:20200416T141500Z
+DTEND:20200416T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1325e147b6889a9c
+DTSTAMP:20200107T123656Z
+DTSTART:20200417T121500Z
+DTEND:20200417T140000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:1335e147b6889aab
+DTSTAMP:20200107T123656Z
+DTSTART:20200417T121500Z
+DTEND:20200417T140000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:1345e147b6889ac8
+DTSTAMP:20200107T123656Z
+DTSTART:20200420T101500Z
+DTEND:20200420T120000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:1355e147b6889ada
+DTSTAMP:20200107T123656Z
+DTSTART:20200420T101500Z
+DTEND:20200420T120000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:1365e147b6889aea
+DTSTAMP:20200107T123656Z
+DTSTART:20200420T121500Z
+DTEND:20200420T150000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:1375e147b6889af9
+DTSTAMP:20200107T123656Z
+DTSTART:20200421T141500Z
+DTEND:20200421T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1385e147b6889b08
+DTSTAMP:20200107T123656Z
+DTSTART:20200422T101500Z
+DTEND:20200422T140000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:1395e147b6889b17
+DTSTAMP:20200107T123656Z
+DTSTART:20200422T141500Z
+DTEND:20200422T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1405e147b6889b27
+DTSTAMP:20200107T123656Z
+DTSTART:20200422T141500Z
+DTEND:20200422T180000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:1415e147b6889b36
+DTSTAMP:20200107T123656Z
+DTSTART:20200423T141500Z
+DTEND:20200423T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1425e147b6889b45
+DTSTAMP:20200107T123656Z
+DTSTART:20200424T121500Z
+DTEND:20200424T140000Z
+LOCATION:Høgskoleringen 3 H3 424 Vembi
+SUMMARY:IELET1001 2-4_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-4_Øving \nBIELEKTRO.\nK. Bjørvik\nHøgskoleringe
+ n 3\nH3 424 Vembi: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoityp
+ e=identifier&sharepoi=358-424
+END:VEVENT
+BEGIN:VEVENT
+UID:1435e147b6889b56
+DTSTAMP:20200107T123656Z
+DTSTART:20200424T121500Z
+DTEND:20200424T140000Z
+LOCATION:Realfagbygget R22
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR22: http:
+ //use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=36
+ 0-BU2-153
+END:VEVENT
+BEGIN:VEVENT
+UID:1445e147b6889b69
+DTSTAMP:20200107T123656Z
+DTSTART:20200427T101500Z
+DTEND:20200427T120000Z
+LOCATION:Realfagbygget R9
+SUMMARY:IELET1001 1-3_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n1-3_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&
+ sharepoi=360-AU1-101
+END:VEVENT
+BEGIN:VEVENT
+UID:1455e147b6889b7a
+DTSTAMP:20200107T123656Z
+DTSTART:20200427T101500Z
+DTEND:20200427T120000Z
+LOCATION:Realfagbygget R5
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nRealfagbygget\nR5: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360
+ -BU1-100
+END:VEVENT
+BEGIN:VEVENT
+UID:1465e147b6889b8f
+DTSTAMP:20200107T123656Z
+DTSTART:20200427T121500Z
+DTEND:20200427T150000Z
+LOCATION:Sentralbygg 2 S5
+SUMMARY:IELET1001 1-2_Forlesning/Øving
+DESCRIPTION:IELET1001\n1-2_Forlesning/Øving .\nH. Ranes\nSentralbygg 2\n
+ S5: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sh
+ arepoi=322-115
+END:VEVENT
+BEGIN:VEVENT
+UID:1475e147b6889ba0
+DTSTAMP:20200107T123656Z
+DTSTART:20200428T141500Z
+DTEND:20200428T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 1-1_Laboratorieøvelse \nElektrolab-Elektro
+DESCRIPTION:IELET1001\n1-1_Laboratorieøvelse \nElektrolab-Elektro .\n\nH
+ øgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&campuses=ntnu
+ &sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1485e147b6889bb0
+DTSTAMP:20200107T123656Z
+DTSTART:20200429T101500Z
+DTEND:20200429T140000Z
+LOCATION:Sentralbygg 1 S2
+SUMMARY:IELET1001 2-6_Øving \nBIFOREN
+DESCRIPTION:IELET1001\n2-6_Øving \nBIFOREN.\n\nSentralbygg 1\nS2: http:/
+ /use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=321
+ -116
+END:VEVENT
+BEGIN:VEVENT
+UID:1495e147b6889bc0
+DTSTAMP:20200107T123656Z
+DTSTART:20200429T141500Z
+DTEND:20200429T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-1_Laboratorieøvelse \nElektrolab-Fornybar energi
+DESCRIPTION:IELET1001\n2-1_Laboratorieøvelse \nElektrolab-Fornybar energ
+ i.\nH. Ranes\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=
+ 1&campuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+BEGIN:VEVENT
+UID:1505e147b6889bcf
+DTSTAMP:20200107T123656Z
+DTSTART:20200429T141500Z
+DTEND:20200429T180000Z
+LOCATION:Realfagbygget R10
+SUMMARY:IELET1001 2-5_Øving \nBIELEKTRO
+DESCRIPTION:IELET1001\n2-5_Øving \nBIELEKTRO.\nK. Bjørvik\nRealfagbygget
+ \nR10: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier
+ &sharepoi=360-D5-171
+END:VEVENT
+BEGIN:VEVENT
+UID:1515e147b6889bf6
+DTSTAMP:20200107T123656Z
+DTSTART:20200430T141500Z
+DTEND:20200430T180000Z
+LOCATION:Høgskoleringen 3 Elektrolab B
+SUMMARY:IELET1001 2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab Elektro
+DESCRIPTION:IELET1001\n2-2_Laboratorieøvelse \nI rom GL-HØ elektrolab El
+ ektro.\n\nHøgskoleringen 3\nElektrolab B: http://use.mazemap.com/?v=1&ca
+ mpuses=ntnu&sharepoitype=identifier&sharepoi=358-211
+END:VEVENT
+END:VCALENDAR
