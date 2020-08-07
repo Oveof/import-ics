@@ -25,6 +25,5 @@ def getEvents(icsCalendar):
                 'timezone': event.end.tzinfo
             }
         }
-        print("\n")
-        print(eventObj)
+        events.append(eventObj)
         
