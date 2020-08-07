@@ -5,3 +5,4 @@ f = open("IELET100120v.ics", "r")
 
 c = Calendar(f.read())
 
+print(c.events)
