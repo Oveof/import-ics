@@ -8,13 +8,11 @@ from google.auth.transport.requests import Request
 from interpreter import getEvents
 
 from ics import Calendar
-import requests
 import json
 import arrow
 
 SCOPES = ['https://www.googleapis.com/auth/calendar']
 CALENDAR_ID = 'kfj5jbndhv4liav49blpj7hurs@group.calendar.google.com'
-
 def main():
 
     creds = None
@@ -38,27 +36,16 @@ def main():
 
     service = build('calendar', 'v3', credentials=creds)
 
-    c = Calendar(open("IELET100120v.ics").read())
+    urls = ["https://tp.uio.no/ntnu/timeplan/ical.php?weekfrom=34&weekto=48&year=2020&id%5B0%5D=IELEA2003%2C&type=course",
+            "https://tp.uio.no/ntnu/timeplan/timeplan.php?id=IELET2001,&type=course&sort=&sem=20h&termnr=1",
+            ]
 
-    for event in c.events:
-        #event.begin = event.begin.replace(tzinfo='Europe/Oslo')
-        #event.end = event.end.replace(tzinfo='Europe/Oslo')
-        eventObj = {
-            'summary': str(event.name),
-            'location': str(event.location),
-            'description': str(event.description),
-            'start': {
-                'dateTime': str(event.begin),
-                'timeZone': "Europe/Oslo"
-            },
-            'end': {
-                'dateTime': str(event.end),
-                'timeZone': "Europe/Oslo"
-            },
-        }
-        service.events().insert(calendarId=CALENDAR_ID, body=eventObj).execute()
+    for url in urls:
+    #Get events interpreted from ics file to a readable format for Google Calendar API
+    events = getEvents()
+    for event in events:
+        service.events().insert(calendarId=CALENDAR_ID, body=event).execute()
 
-#HELLOW
 
 if __name__ == '__main__':
     main()
