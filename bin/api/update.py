@@ -56,7 +56,7 @@ def main():
                 'timeZone': "Europe/Oslo"
             },
         }
-        fuck = service.events().insert(calendarId=CALENDAR_ID, body=eventObj).execute()
+        service.events().insert(calendarId=CALENDAR_ID, body=eventObj).execute()
 
 #HELLOW
 
