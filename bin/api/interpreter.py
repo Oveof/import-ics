@@ -8,10 +8,8 @@ def getEvents(icsCalendar = open('IELET100120v.ics')):
     c = Calendar(icsCalendar.read())
 
     events = []
-    i = 0
 
     for event in c.events:
-        print(i)
         event.begin = event.begin.replace(tzinfo='Europe/Oslo')
         event.end = event.end.replace(tzinfo='Europe/Oslo')
         eventObj = {
@@ -28,9 +26,6 @@ def getEvents(icsCalendar = open('IELET100120v.ics')):
             },
         }
         events.append(json.dumps(eventObj))
-        i = i + 1
-    print("\n" + events[150])
-    len(events)
     return events
         
 getEvents()
